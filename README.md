@@ -19,7 +19,7 @@ configuración de la base de datos.
 - Caja y Pedidos: Flujo en tiempo real para cocina y ventas.
 
 4. Configuración para el Grupo de Trabajo
-Para que los compañeros puedan trabajar sin afectar el sistema comercial:
+Se creo esta copia del sistema original para que los compañeros puedan trabajar sin afectar el sistema comercial:
 
     1. Clonar este repositorio académico.
     2. Configurar sus propias variables de entorno en un archivo .env (URL de Supabase y
